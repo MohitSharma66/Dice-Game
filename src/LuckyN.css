@@ -1,0 +1,12 @@
+.dice {
+    border: 3px solid black;
+    display: flex;
+    width: 500px;
+    border-radius: 19px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: stretch;
+    align-items: center;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
